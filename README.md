@@ -1,4 +1,4 @@
-# YouTube Video Interaction App
+# YT-GPT
 
 This application allows users to interact with YouTube videos by providing a link. It extracts the video's captions, generates a transcript, and enables users to ask questions and perform various tasks related to the video's content.
 
